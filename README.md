@@ -61,6 +61,10 @@ OpenCV for image processing
 Matplotlib for data visualization
 Hugging Face Spaces for web deployment
 
+Model - 
+
+📥 You can download the trained model directly from our Hugging Face community space here. 
+https://huggingface.co/spaces/rttr1/brain_tumor_cnn/resolve/main/BRAIINTUMORMODEL.h5
 
 📄 Publication
 
